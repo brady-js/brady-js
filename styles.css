@@ -48,6 +48,10 @@ button {
   width: 200px;
 }
 
+button:hover {
+  background-color: rgb(254, 206, 32);
+}
+
 h2,
 h3,
 h4 {
