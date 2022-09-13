@@ -10,28 +10,37 @@ body {
 }
 
 header {
-  margin: 0 0;
-  padding: 200px;
+  padding-top: 50px;
+  padding-bottom: 40px;
   background-color: rgb(27, 11, 111);
   color: ghostwhite;
   border-bottom: 10px solid rgb(254, 206, 32);
   font-weight: 530;
+  height: 50%;
+  width: 100%;
 }
 
 h1 {
   margin-bottom: 30px;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 150px;
+  display: flex;
+  justify-content: center;
 }
 
 .firstp {
   margin-top: 100px;
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 a {
   text-decoration: none;
   color: rgb(27, 11, 111);
   font-weight: bold;
+  display: block;
+  margin: 0 auto;
 }
 
 a:hover {
