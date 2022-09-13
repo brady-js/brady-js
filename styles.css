@@ -77,6 +77,22 @@ p {
   text-align: center;
 }
 
+main a {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(27, 11, 111);
+}
+
+main a:hover {
+  font-weight: bolder;
+  cursor: pointer;
+  background-color: none;
+}
+
+main a:active {
+  background-color: none;
+}
+
 article {
   background-color: #f7f7f7;
   padding: 80px 10px 80px 10px;
