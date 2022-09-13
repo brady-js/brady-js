@@ -77,19 +77,19 @@ p {
   text-align: center;
 }
 
-main a {
+aside a {
   text-decoration: none;
   font-weight: bold;
   color: rgb(27, 11, 111);
 }
 
-main a:hover {
+aside a:hover {
   font-weight: bolder;
   cursor: pointer;
   background-color: none;
 }
 
-main a:active {
+aside a:active {
   background-color: none;
 }
 
